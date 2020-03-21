@@ -5,3 +5,7 @@ Hash Code is a team programming competition, organized by Google, for students a
 - Shreeya Sanjay Sand
 - Shrvan Warke
 - Omanshu Mahawar
+
+### Extended Round
+#### Score
+![alt text](https://github.com/Omanshu840/HashCode2020/blob/master/Extended%20Round/scoreboard.png)
